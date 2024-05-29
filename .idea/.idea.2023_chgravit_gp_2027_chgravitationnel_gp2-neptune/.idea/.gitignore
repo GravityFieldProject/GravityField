@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.2023_chgravit_gp_2027_chgravitationnel_gp2-neptune.iml
+# Editor-based HTTP Client requests
+/httpRequests/
