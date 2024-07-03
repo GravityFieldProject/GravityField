@@ -4,7 +4,7 @@
 
 This project is a remake of the solar system and also an asteroid field. The goal of this project is to integrate the proper solar system calculations of vector field to make planets orbit around each other, using their real data.
 
-## Solar system Features
+## Solar System Features
 
 ![Solar system image](./Screenshots/Screenshot_1.png)
 
